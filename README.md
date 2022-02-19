@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afaqueumer
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning ML/NLP/DL
+- 🌱 I’m currently exploring ML/NLP/DL
 - 💞️ I’m looking to collaborate on ML
 - 📫 How to reach me afaqueumer33@gmail.com
 
